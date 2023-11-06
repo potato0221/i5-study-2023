@@ -11,5 +11,6 @@ class Solution {
         answer[1]=lcm/answer[0];
 
         return answer;
+        
     }
 }
