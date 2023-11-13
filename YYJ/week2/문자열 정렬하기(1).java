@@ -8,5 +8,6 @@ class Solution {
                 .sorted()
                 .toArray(); //IntStream을 int 배열로 변환
         return answer;
+        
     }
 }
